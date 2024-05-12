@@ -1,6 +1,6 @@
 import React from 'react';
 import {SafeAreaView, StyleSheet } from 'react-native';
-import ParentComponent from '../../components/ParentComponent';
+import ParentComponent from './components/ParentComponent';
 
 export default function App() {
   return (

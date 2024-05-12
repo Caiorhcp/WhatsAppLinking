@@ -1,0 +1,5 @@
+Os codigos estão respectivamente:
+
+O codigo do App.js esta em  ./APP/tabs/index.tsx
+
+Os components que o app chama para renderizar na tela estam em ./Components/
